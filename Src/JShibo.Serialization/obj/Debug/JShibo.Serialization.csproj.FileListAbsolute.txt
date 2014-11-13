@@ -1,0 +1,6 @@
+F:\工作\JShibo.Serialization\trunk\Source\Src\JShibo.Serialization\JShibo.Serialization\obj\Debug\JShibo.Serialization.csprojResolveAssemblyReference.cache
+F:\工作\JShibo.Serialization\trunk\Source\Src\JShibo.Serialization\JShibo.Serialization\bin\Debug\JShibo.Serialization.dll
+F:\工作\JShibo.Serialization\trunk\Source\Src\JShibo.Serialization\JShibo.Serialization\bin\Debug\JShibo.Serialization.pdb
+F:\工作\JShibo.Serialization\trunk\Source\Src\JShibo.Serialization\JShibo.Serialization\bin\Debug\Newtonsoft.Json.dll
+F:\工作\JShibo.Serialization\trunk\Source\Src\JShibo.Serialization\JShibo.Serialization\obj\Debug\JShibo.Serialization.dll
+F:\工作\JShibo.Serialization\trunk\Source\Src\JShibo.Serialization\JShibo.Serialization\obj\Debug\JShibo.Serialization.pdb
